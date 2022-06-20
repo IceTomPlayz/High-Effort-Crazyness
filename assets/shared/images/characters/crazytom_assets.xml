@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crazytom_assets.png"><SubTexture name="crazytom down0000" x="525" y="602" width="161" height="278" frameX="-27" frameY="-34" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom down0001" x="1006" y="0" width="163" height="268" frameX="-28" frameY="-44" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom down0002" x="0" y="895" width="172" height="251" frameX="-28" frameY="-61" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom idle0000" x="0" y="304" width="160" height="298" frameX="-29" frameY="-14" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom idle0001" x="642" y="296" width="161" height="291" frameX="-32" frameY="-21" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom idle0002" x="364" y="602" width="161" height="289" frameX="-30" frameY="-23" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom idle0003" x="686" y="602" width="161" height="275" frameX="-33" frameY="-37" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom idle0004" x="364" y="602" width="161" height="289" frameX="-30" frameY="-23" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom idle0005" x="642" y="296" width="161" height="291" frameX="-32" frameY="-21" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom idle0006" x="0" y="304" width="160" height="298" frameX="-29" frameY="-14" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom left0000" x="807" y="0" width="199" height="295" frameX="-8" frameY="-14" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom left0001" x="807" y="295" width="199" height="295" frameX="-8" frameY="-14" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom left0002" x="0" y="602" width="199" height="293" frameX="-8" frameY="-16" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom right0000" x="160" y="304" width="165" height="298" frameX="-24" frameY="-14" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom right0001" x="642" y="0" width="165" height="296" frameX="-34" frameY="-16" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom right0002" x="199" y="602" width="165" height="290" frameX="-33" frameY="-22" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom scream0000" x="325" y="304" width="179" height="298" frameX="-13" frameY="-14" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom up0000" x="214" y="0" width="214" height="303" frameX="-3" frameY="-9" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom up0001" x="428" y="0" width="214" height="303" frameX="-3" frameY="-9" frameWidth="218" frameHeight="324" />
+<SubTexture name="crazytom up0002" x="0" y="0" width="214" height="304" frameX="-3" frameY="-8" frameWidth="218" frameHeight="324" />
+</TextureAtlas>

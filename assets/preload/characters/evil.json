@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "evil idle"
+		},
+		{
+			"offsets": [
+				15,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "evil left"
+		},
+		{
+			"offsets": [
+				-9,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "evil right"
+		},
+		{
+			"offsets": [
+				0,
+				-19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "evil down"
+		},
+		{
+			"offsets": [
+				0,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "evil up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/evil_assets",
+	"position": [
+		30,
+		200
+	],
+	"healthicon": "evil",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-80,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

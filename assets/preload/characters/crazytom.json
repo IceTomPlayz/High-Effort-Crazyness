@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "crazytom idle"
+		},
+		{
+			"offsets": [
+				11,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "crazytom left"
+		},
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "crazytom right"
+		},
+		{
+			"offsets": [
+				0,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "crazytom down"
+		},
+		{
+			"offsets": [
+				0,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "crazytom up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scream",
+			"loop": false,
+			"name": "crazytom scream"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/crazytom_assets",
+	"position": [
+		30,
+		210
+	],
+	"healthicon": "crazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		38,
+		255
+	],
+	"camera_position": [
+		-60,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

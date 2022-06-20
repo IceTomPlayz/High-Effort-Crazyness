@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="evil_assets.png"><SubTexture name="evil down0000" x="345" y="0" width="162" height="310" frameX="-23" frameY="-11" frameWidth="231" frameHeight="324" />
+<SubTexture name="evil down0001" x="848" y="0" width="169" height="308" frameX="-23" frameY="-13" frameWidth="231" frameHeight="324" />
+<SubTexture name="evil down0002" x="351" y="622" width="188" height="296" frameX="-23" frameY="-25" frameWidth="231" frameHeight="324" />
+<SubTexture name="evil idle0000" x="507" y="0" width="159" height="310" frameX="-26" frameY="-11" frameWidth="231" frameHeight="324" />
+<SubTexture name="evil idle0001" x="848" y="308" width="163" height="306" frameX="-32" frameY="-15" frameWidth="231" frameHeight="324" />
+<SubTexture name="evil idle0002" x="498" y="312" width="164" height="299" frameX="-37" frameY="-22" frameWidth="231" frameHeight="324" />
+<SubTexture name="evil idle0003" x="539" y="622" width="164" height="292" frameX="-46" frameY="-29" frameWidth="231" frameHeight="324" />
+<SubTexture name="evil idle0004" x="498" y="312" width="164" height="299" frameX="-37" frameY="-22" frameWidth="231" frameHeight="324" />
+<SubTexture name="evil idle0005" x="848" y="308" width="163" height="306" frameX="-32" frameY="-15" frameWidth="231" frameHeight="324" />
+<SubTexture name="evil idle0006" x="507" y="0" width="159" height="310" frameX="-26" frameY="-11" frameWidth="231" frameHeight="324" />
+<SubTexture name="evil left0000" x="0" y="312" width="162" height="310" frameX="-23" frameY="-11" frameWidth="231" frameHeight="324" />
+<SubTexture name="evil left0001" x="0" y="622" width="172" height="307" frameX="-23" frameY="-14" frameWidth="231" frameHeight="324" />
+<SubTexture name="evil left0002" x="172" y="622" width="179" height="302" frameX="-23" frameY="-19" frameWidth="231" frameHeight="324" />
+<SubTexture name="evil right0000" x="162" y="312" width="159" height="310" frameX="-26" frameY="-11" frameWidth="231" frameHeight="324" />
+<SubTexture name="evil right0001" x="0" y="0" width="164" height="312" frameX="-20" frameY="-9" frameWidth="231" frameHeight="324" />
+<SubTexture name="evil right0002" x="321" y="312" width="177" height="310" frameX="-7" frameY="-11" frameWidth="231" frameHeight="324" />
+<SubTexture name="evil up0000" x="666" y="0" width="182" height="310" frameX="-3" frameY="-11" frameWidth="231" frameHeight="324" />
+<SubTexture name="evil up0001" x="666" y="310" width="181" height="309" frameX="-3" frameY="-12" frameWidth="231" frameHeight="324" />
+<SubTexture name="evil up0002" x="164" y="0" width="181" height="311" frameX="-3" frameY="-10" frameWidth="231" frameHeight="324" />
+</TextureAtlas>
